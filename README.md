@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+- Currently working on [cryptoexcellence.xyz](https://www.cryptoexcellence.xyz/)
+- Computer Science grad from [NYU](https://www.nyu.edu/)
+- Statistics grad from [UVA](https://www.virginia.edu/)
 
 <!--
 **zalkikar/zalkikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
