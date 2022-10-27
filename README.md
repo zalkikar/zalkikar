@@ -1,6 +1,5 @@
 ### Hello 👋
 
-- Currently working on [cryptoexcellence.xyz](https://www.cryptoexcellence.xyz/)
 - Computer Science grad from [NYU](https://www.nyu.edu/)
 - Statistics grad from [UVA](https://www.virginia.edu/)
 
