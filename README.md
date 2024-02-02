@@ -1,7 +1,8 @@
 ### Hello 👋
 
-- Computer Science grad from [NYU](https://www.nyu.edu/)
-- Statistics grad from [UVA](https://www.virginia.edu/)
+Personal Site: https://rahulzalkikar.info
+Computer Science grad from [NYU](https://www.nyu.edu/)
+Statistics grad from [UVA](https://www.virginia.edu/)
 
 <!--
 **zalkikar/zalkikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
