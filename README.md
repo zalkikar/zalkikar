@@ -4,8 +4,6 @@ Computer Science [@NYU](https://www.nyu.edu/)
 
 Statistics grad [@UVA](https://www.virginia.edu/)
 
-Personal site: https://rahulzalkikar.info
-
 <!--
 **zalkikar/zalkikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
