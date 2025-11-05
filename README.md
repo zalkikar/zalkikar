@@ -2,7 +2,7 @@
 
 Computer Science [@NYU](https://www.nyu.edu/)
 
-Statistics grad [@UVA](https://www.virginia.edu/)
+Statistics [@UVA](https://www.virginia.edu/)
 
 <!--
 **zalkikar/zalkikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
